@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f77d978958ed010b564.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleCalendar",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCalendar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCalendar-Debug-6981bcafe326dec7d252.json",
+					"name" : "SimpleCalendar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCalendar_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCalendar_autogen-Debug-e5ed9ea6bebd4f65ad04.json",
+					"name" : "SimpleCalendar_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleCalendar_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleCalendar_autogen_timestamp_deps-Debug-a20a2dccb827d32924d3.json",
+					"name" : "SimpleCalendar_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Github/SimpleCalendar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/Github/SimpleCalendar"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

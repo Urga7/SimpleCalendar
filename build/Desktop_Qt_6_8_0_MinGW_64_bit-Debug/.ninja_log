@@ -1,0 +1,9 @@
+# ninja log v6
+6	507	7531465087244803	SimpleCalendar_autogen/timestamp	c788a447a267b3d9
+6	507	7531465087244803	SimpleCalendar_autogen/mocs_compilation.cpp	c788a447a267b3d9
+6	507	7531465087244803	C:/Github/SimpleCalendar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SimpleCalendar_autogen/timestamp	c788a447a267b3d9
+6	507	7531465087244803	C:/Github/SimpleCalendar/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/SimpleCalendar_autogen/mocs_compilation.cpp	c788a447a267b3d9
+512	2145	7531465087884802	CMakeFiles/SimpleCalendar.dir/SimpleCalendar_autogen/mocs_compilation.cpp.obj	662bff3bcd8c22e6
+515	2173	7531465087914808	CMakeFiles/SimpleCalendar.dir/main.cpp.obj	82e7275a633e2669
+518	2218	7531465087944876	CMakeFiles/SimpleCalendar.dir/mainwindow.cpp.obj	c669c60cd0d69bb9
+2219	2408	7531465104951020	SimpleCalendar.exe	b25196110a8827f1
